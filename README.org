@@ -1,4 +1,4 @@
-* A list of people whose [[https://www.gnu.org/software/emacs/][emacs]] config files worth taking a look at
+* A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
  - Bodil Stokke [[https://github.com/bodil/ohai-emacs][ohai-emacs]]
  - Bozhidar Batsov [[https://github.com/bbatsov/emacs.d][emacs.d]]
  - Chen Bin [[https://github.com/redguardtoo/emacs.d][emacs.d]]
