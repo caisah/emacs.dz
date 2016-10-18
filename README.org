@@ -29,6 +29,7 @@
  - Matus Goljer [[https://github.com/Fuco1/.emacs.d][.emacs.d]]
  - Nathan Typanski [[https://github.com/nathantypanski/emacs.d][emacs.d]]
  - Nicolas Petton [[https://github.com/NicolasPetton/emacs.d][emacs.d]]
+ - Filipe Silva [[https://github.com/ninrod/dotfiles/tree/master/emacs.d][emacs.d]]
  - Sacha Chua [[https://github.com/sachac/.emacs.d][.emacs.d]]
  - Sam Halliday [[https://github.com/fommil/dotfiles/tree/master/.emacs.d][.emacs.d]]
  - Sebastian Wiesner [[https://github.com/lunaryorn/.emacs.d][.emacs.d]]
