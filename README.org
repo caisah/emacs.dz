@@ -27,6 +27,7 @@
  - Magnar Sveen [[https://github.com/magnars/.emacs.d][.emacs.d]]
  - Matt Briggs [[https://github.com/mbriggs/.emacs.d][.emacs.d]]
  - Matus Goljer [[https://github.com/Fuco1/.emacs.d][.emacs.d]]
+ - Natalie Pendragon [[https://github.com/natpen/dot-emacs][dot-emacs]]
  - Nathan Typanski [[https://github.com/nathantypanski/emacs.d][emacs.d]]
  - Nicolas Petton [[https://github.com/NicolasPetton/emacs.d][emacs.d]]
  - Sacha Chua [[https://github.com/sachac/.emacs.d][.emacs.d]]
