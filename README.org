@@ -48,4 +48,5 @@
  - Xyguo [[https://github.com/xyguo/emacs.d][emacs.d]]
 
 ** Contribute
-   Please feel free to open a pull request.
+   Feel free to open a pull request.
+   Please don't add your personal config file. I won't accept it unless is vetoed by other community members.
