@@ -12,7 +12,6 @@
  - Christopher Wellons [[https://github.com/skeeto/.emacs.d][.emacs.d]]
  - Chunyang Xu [[https://github.com/xuchunyang/emacs.d][emacs.d]]
  - Damien Cassou [[https://github.com/DamienCassou/emacs.d][emacs.d]]
- - Dan Frumin
  - Dennis Ogbe [[https://ogbe.net/emacsconfig.html][settings.org]]
  - Dmitry Gutov [[https://github.com/dgutov/dot-emacs][dot-emacs]]
  - Donald Curtis [[https://github.com/milkypostman/dotemacs][dotemacs]]
