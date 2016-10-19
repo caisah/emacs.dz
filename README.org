@@ -41,6 +41,7 @@
  - Sebastian Wiesner [[https://github.com/lunaryorn/.emacs.d][.emacs.d]]
  - Steckerhalter [[https://github.com/steckerhalter/steckemacs.el][steckemacs.el]]
  - Steve Purcell [[https://github.com/purcell/emacs.d][emacs.d]]
+ - Syohei Yoshida [[https://github.com/syohex/dot_files/tree/master/emacs][emacs]]
  - Thierry Volpiatto [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]]
  - Tianxiang Xiong [[https://github.com/xiongtx/.emacs.d][.emacs.d]]
  - Vasilij Schneidermann [[https://github.com/wasamasa/dotemacs][dotemacs]]
