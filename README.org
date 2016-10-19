@@ -1,4 +1,5 @@
 * A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
+ - Andreas Gerler [[https://github.com/baron42bba/.emacs.d][.emacs.d]]
  - Bodil Stokke [[https://github.com/bodil/ohai-emacs][ohai-emacs]]
  - Bozhidar Batsov [[https://github.com/bbatsov/emacs.d][emacs.d]]
  - Chen Bin [[https://github.com/redguardtoo/emacs.d][emacs.d]]
