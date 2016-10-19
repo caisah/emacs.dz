@@ -8,6 +8,7 @@
  - Christopher Wellons [[https://github.com/skeeto/.emacs.d][.emacs.d]]
  - Chunyang Xu [[https://github.com/xuchunyang/emacs.d][emacs.d]]
  - Damien Cassou [[https://github.com/DamienCassou/emacs.d][emacs.d]]
+ - Dennis Ogbe [[https://ogbe.net/emacsconfig.html][settings.org]]
  - Donald Curtis [[https://github.com/milkypostman/dotemacs][dotemacs]]
  - Eric James Michael Ritz [[https://github.com/ejmr/DotEmacs][DotEmacs]]
  - Fanael Linithien [[https://github.com/Fanael/init.el][init.el]]
