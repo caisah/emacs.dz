@@ -14,6 +14,7 @@
  - Henrik Lissner [[https://github.com/hlissner/.emacs.d][.emacs.d]]
  - Howard Abrams [[https://github.com/howardabrams/dot-files][dot-files]]
  - Ista Zahn [[https://github.com/izahn/dotemacs][dotemacs]]
+ - Ivan Malison [[https://github.com/IvanMalison/dotfiles/tree/master/dotfiles/emacs.d][emacs.d]]
  - Jason Milkins [[https://github.com/ocodo/.emacs.d][.emacs.d]]
  - Jim Myhrberg [[https://github.com/jimeh/.emacs.d][.emacs.d]]
  - Joe Di Castro [[https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs Configuration]]
