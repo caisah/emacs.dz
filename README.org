@@ -2,6 +2,7 @@
  - Aaron Culich [[https://github.com/aculich/.emacs.d][.emacs.d]]
  - Alex Kost [[https://github.com/alezost/emacs-config][emacs-config]]
  - Andrey Kotlarski [[https://github.com/m00natic/dot-emacs][dot-emacs]]
+ - Bailey Ling [[https://github.com/bling/dotemacs][dotemacs]]
  - Bodil Stokke [[https://github.com/bodil/ohai-emacs][ohai-emacs]]
  - Bozhidar Batsov [[https://github.com/bbatsov/emacs.d][emacs.d]]
  - Bradley Wright [[https://github.com/bradwright/emacs.d][emacs.d]]
