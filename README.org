@@ -31,6 +31,7 @@
  - Joe Di Castro [[https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs Configuration]]
  - Johan Andersson [[https://github.com/rejeep/emacs][emacs]]
  - John Wiegley [[https://github.com/jwiegley/dot-emacs][dot-emacs]]
+ - Joost Diepenmaat [[https://github.com/joodie/emacs-literal-config][emacs-literal-config]]
  - Jordon Biondo [[https://github.com/jordonbiondo/.emacs.d][.emacs.d]]
  - Jorgen Schäfer [[https://github.com/jorgenschaefer/Config][Config]]
  - Julien Fantin [[https://github.com/julienfantin/.emacs.d][.emacs bankrupcy]]
