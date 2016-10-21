@@ -1,80 +1,79 @@
 * A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
 
-| Name                    | config               | Key Bindings | Literate | Package     | Emacs version | Clonable | Highlights        |
-|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
-| Aaron Culich            | [[https://github.com/aculich/.emacs.d][.emacs.d]]             | classic      | ✔        | use-package |            25 | ✔        | OSX, Latex, Scala |
-|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
-| Alex Kost               | [[https://github.com/alezost/emacs-config][emacs-config]]         | non-standard |          | quelpa      |               | ✔        | Multiple systems  |
-|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
-| Andrey Kotlarski        | [[https://github.com/m00natic/dot-emacs][dot-emacs]]            | classic      |          | package     |            23 |          |                   |
-|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
-| Bailey Ling             | [[https://github.com/bling/dotemacs][dotemacs]]             |              |          |             |               |          |                   |
-| Bodil Stokke            | [[https://github.com/bodil/ohai-emacs][ohai-emacs]]           |              |          |             |               |          |                   |
-| Bozhidar Batsov         | [[https://github.com/bbatsov/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Bradley Wright          | [[https://github.com/bradwright/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Chen Bin                | [[https://github.com/redguardtoo/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Chris McCord            | [[https://github.com/chrismccord/dot_emacs][dot_emacs]]            |              |          |             |               |          |                   |
-| Chris Wanstrath         | [[https://github.com/defunkt/emacs][emacs]]                |              |          |             |               |          |                   |
-| Christian Johansen      | [[https://github.com/cjohansen/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Christopher Wellons     | [[https://github.com/skeeto/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Chunyang Xu             | [[https://github.com/xuchunyang/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Damien Cassou           | [[https://github.com/DamienCassou/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Dennis Ogbe             | [[https://ogbe.net/emacsconfig.html][settings.org]]         |              |          |             |               |          |                   |
-| Dmitry Gutov            | [[https://github.com/dgutov/dot-emacs][dot-emacs]]            |              |          |             |               |          |                   |
-| Donald Curtis           | [[https://github.com/milkypostman/dotemacs][dotemacs]]             |              |          |             |               |          |                   |
-| Emanuel Evans           | [[https://github.com/shosti/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Eric James Michael Ritz | [[https://github.com/ejmr/DotEmacs][DotEmacs]]             |              |          |             |               |          |                   |
-| Fanael Linithien        | [[https://github.com/Fanael/init.el][init.el]]              |              |          |             |               |          |                   |
-| Feng Zhou               | [[https://github.com/zweifisch/dotfiles/tree/master/emacs][emacs]]                |              |          |             |               |          |                   |
-| Greg Lucas              | [[https://github.com/glucas/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Henrik Lissner          | [[https://github.com/hlissner/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Howard Abrams           | [[https://github.com/howardabrams/dot-files][dot-files]]            |              |          |             |               |          |                   |
-| Ista Zahn               | [[https://github.com/izahn/dotemacs][dotemacs]]             |              |          |             |               |          |                   |
-| Ivan Malison            | [[https://github.com/IvanMalison/dotfiles/tree/master/dotfiles/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Jason Milkins           | [[https://github.com/ocodo/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Jeffrey Arnold          | [[https://github.com/jrnold/emacs-dot-files][emacs-dot-files]]      |              |          |             |               |          |                   |
-| Jim Myhrberg            | [[https://github.com/jimeh/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Joe Di Castro           | [[https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs Configuration]]  |              |          |             |               |          |                   |
-| Johan Andersson         | [[https://github.com/rejeep/emacs][emacs]]                |              |          |             |               |          |                   |
-| John Wiegley            | [[https://github.com/jwiegley/dot-emacs][dot-emacs]]            |              |          |             |               |          |                   |
-| Joost Diepenmaat        | [[https://github.com/joodie/emacs-literal-config][emacs-literal-config]] |              |          |             |               |          |                   |
-| Jordon Biondo           | [[https://github.com/jordonbiondo/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Jorgen Schäfer          | [[https://github.com/jorgenschaefer/Config][Config]]               |              |          |             |               |          |                   |
-| Julien Fantin           | [[https://github.com/julienfantin/.emacs.d][.emacs bankrupcy]]     |              |          |             |               |          |                   |
-| Junpeng Qiu             | [[https://github.com/cute-jumper/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Justin Talbott          | [[https://github.com/waymondo/hemacs][hemacs]]               |              |          |             |               |          |                   |
-| Kaushal Modi            | [[https://github.com/kaushalmodi/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Lars Andersen           | [[https://github.com/expez/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Lars Tveito             | [[https://github.com/larstvei/dot-emacs][dot-emacs]]            |              |          |             |               |          |                   |
-| Magnar Sveen            | [[https://github.com/magnars/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Mark Karpov             | [[https://github.com/mrkkrp/dot-emacs][dot-emacs]]            |              |          |             |               |          |                   |
-| Matt Briggs             | [[https://github.com/mbriggs/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Matus Goljer            | [[https://github.com/Fuco1/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Nathan Typanski         | [[https://github.com/nathantypanski/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Nicolas Petton          | [[https://github.com/NicolasPetton/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Oleh Krehel             | [[https://github.com/abo-abo/oremacs][oremacs]]              |              |          |             |               |          |                   |
-| Ono Hiroko              | [[https://github.com/kuanyui/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Phil Hagelberg          | [[https://github.com/technomancy/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Philippe Vaucher        | [[https://github.com/Silex/emacs-config][emacs-config]]         |              |          |             |               |          |                   |
-| Pierre Lecocq           | [[https://github.com/pierre-lecocq/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| PythonNut               | [[https://github.com/PythonNut/emacs-config][emacs-config]]         |              |          |             |               |          |                   |
-| Robert Dallas Gray      | [[https://github.com/rdallasgray/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Sacha Chua              | [[https://github.com/sachac/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Sam Halliday            | [[https://github.com/fommil/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Samuel Tonini           | [[https://github.com/tonini/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Sebastian Wiesner       | [[https://github.com/lunaryorn/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Steckerhalter           | [[https://github.com/steckerhalter/steckemacs.el][steckemacs.el]]        |              |          |             |               |          |                   |
-| Steve Purcell           | [[https://github.com/purcell/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Syohei Yoshida          | [[https://github.com/syohex/dot_files/tree/master/emacs][emacs]]                |              |          |             |               |          |                   |
-| Taichi Kawabata         | [[https://github.com/kawabata/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Thierry Volpiatto       | [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]]      |              |          |             |               |          |                   |
-| Tianxiang Xiong         | [[https://github.com/xiongtx/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Usami Kenta             | [[https://github.com/zonuexe/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Vasilij Schneidermann   | [[https://github.com/wasamasa/dotemacs][dotemacs]]             |              |          |             |               |          |                   |
-| Wilfred Hughes          | [[https://github.com/Wilfred/.emacs.d][.emacs.d]]             |              |          |             |               |          |                   |
-| Xah Lee                 | [[https://github.com/xahlee/xah_emacs_init][xah_emacs_init]]       |              |          |             |               |          |                   |
-| Xyguo                   | [[https://github.com/xyguo/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
-| Yuta Yamada             | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |              |          |             |               |          |                   |
+|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-----------------------------------------------------|
+| Name                    | config               | Key Bindings | Literate | Package     | Emacs version | Clonable | Highlights                                          |
+|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-----------------------------------------------------|
+| Aaron Culich            | [[https://github.com/aculich/.emacs.d][.emacs.d]]             | classic      | ✔        | use-package |            25 | ✔        | OSX, Latex, Scala                                   |
+| Alex Kost               | [[https://github.com/alezost/emacs-config][emacs-config]]         | non-standard |          | quelpa      |               | ✔        | Multiple systems                                    |
+| Andrey Kotlarski        | [[https://github.com/m00natic/dot-emacs][dot-emacs]]            | classic      |          | package     |            23 |          |                                                     |
+| Bailey Ling             | [[https://github.com/bling/dotemacs][dotemacs]]             |              |          |             |               |          |                                                     |
+| Bodil Stokke            | [[https://github.com/bodil/ohai-emacs][ohai-emacs]]           |              |          |             |               |          |                                                     |
+| Bozhidar Batsov         | [[https://github.com/bbatsov/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Bradley Wright          | [[https://github.com/bradwright/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Chen Bin                | [[https://github.com/redguardtoo/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Chris McCord            | [[https://github.com/chrismccord/dot_emacs][dot_emacs]]            |              |          |             |               |          |                                                     |
+| Chris Wanstrath         | [[https://github.com/defunkt/emacs][emacs]]                |              |          |             |               |          |                                                     |
+| Christian Johansen      | [[https://github.com/cjohansen/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Christopher Wellons     | [[https://github.com/skeeto/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Chunyang Xu             | [[https://github.com/xuchunyang/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Damien Cassou           | [[https://github.com/DamienCassou/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Dennis Ogbe             | [[https://ogbe.net/emacsconfig.html][settings.org]]         |              |          |             |               |          |                                                     |
+| Dmitry Gutov            | [[https://github.com/dgutov/dot-emacs][dot-emacs]]            |              |          |             |               |          |                                                     |
+| Donald Curtis           | [[https://github.com/milkypostman/dotemacs][dotemacs]]             |              |          |             |               |          |                                                     |
+| Emanuel Evans           | [[https://github.com/shosti/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Eric James Michael Ritz | [[https://github.com/ejmr/DotEmacs][DotEmacs]]             |              |          |             |               |          |                                                     |
+| Fanael Linithien        | [[https://github.com/Fanael/init.el][init.el]]              |              |          |             |               |          |                                                     |
+| Feng Zhou               | [[https://github.com/zweifisch/dotfiles/tree/master/emacs][emacs]]                |              |          |             |               |          |                                                     |
+| Greg Lucas              | [[https://github.com/glucas/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Henrik Lissner          | [[https://github.com/hlissner/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Howard Abrams           | [[https://github.com/howardabrams/dot-files][dot-files]]            |              |          |             |               |          |                                                     |
+| Ista Zahn               | [[https://github.com/izahn/dotemacs][dotemacs]]             |              |          |             |               |          |                                                     |
+| Ivan Malison            | [[https://github.com/IvanMalison/dotfiles/tree/master/dotfiles/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Jason Milkins           | [[https://github.com/ocodo/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Jeffrey Arnold          | [[https://github.com/jrnold/emacs-dot-files][emacs-dot-files]]      |              |          |             |               |          |                                                     |
+| Jim Myhrberg            | [[https://github.com/jimeh/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Joe Di Castro           | [[https://github.com/joedicastro/dotfiles/tree/master/emacs/.emacs.d][Emacs Configuration]]  |              |          |             |               |          |                                                     |
+| Johan Andersson         | [[https://github.com/rejeep/emacs][emacs]]                |              |          |             |               |          |                                                     |
+| John Wiegley            | [[https://github.com/jwiegley/dot-emacs][dot-emacs]]            |              |          |             |               |          |                                                     |
+| Joost Diepenmaat        | [[https://github.com/joodie/emacs-literal-config][emacs-literal-config]] |              |          |             |               |          |                                                     |
+| Jordon Biondo           | [[https://github.com/jordonbiondo/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Jorgen Schäfer          | [[https://github.com/jorgenschaefer/Config][Config]]               |              |          |             |               |          |                                                     |
+| Julien Fantin           | [[https://github.com/julienfantin/.emacs.d][.emacs bankrupcy]]     |              |          |             |               |          |                                                     |
+| Junpeng Qiu             | [[https://github.com/cute-jumper/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Justin Talbott          | [[https://github.com/waymondo/hemacs][hemacs]]               |              |          |             |               |          |                                                     |
+| Kaushal Modi            | [[https://github.com/kaushalmodi/.emacs.d][.emacs.d]]             | classic      |          | use-package |         24.5+ | [[https://github.com/kaushalmodi/.emacs.d#using-my-emacs-setup][✔]]        | GNU/Linux, Windows, Termux (Android), custom theme. |
+| Lars Andersen           | [[https://github.com/expez/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Lars Tveito             | [[https://github.com/larstvei/dot-emacs][dot-emacs]]            |              |          |             |               |          |                                                     |
+| Magnar Sveen            | [[https://github.com/magnars/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Mark Karpov             | [[https://github.com/mrkkrp/dot-emacs][dot-emacs]]            |              |          |             |               |          |                                                     |
+| Matt Briggs             | [[https://github.com/mbriggs/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Matus Goljer            | [[https://github.com/Fuco1/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Nathan Typanski         | [[https://github.com/nathantypanski/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Nicolas Petton          | [[https://github.com/NicolasPetton/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Oleh Krehel             | [[https://github.com/abo-abo/oremacs][oremacs]]              |              |          |             |               |          |                                                     |
+| Ono Hiroko              | [[https://github.com/kuanyui/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Phil Hagelberg          | [[https://github.com/technomancy/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Philippe Vaucher        | [[https://github.com/Silex/emacs-config][emacs-config]]         |              |          |             |               |          |                                                     |
+| Pierre Lecocq           | [[https://github.com/pierre-lecocq/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| PythonNut               | [[https://github.com/PythonNut/emacs-config][emacs-config]]         |              |          |             |               |          |                                                     |
+| Robert Dallas Gray      | [[https://github.com/rdallasgray/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Sacha Chua              | [[https://github.com/sachac/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Sam Halliday            | [[https://github.com/fommil/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Samuel Tonini           | [[https://github.com/tonini/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Sebastian Wiesner       | [[https://github.com/lunaryorn/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Steckerhalter           | [[https://github.com/steckerhalter/steckemacs.el][steckemacs.el]]        |              |          |             |               |          |                                                     |
+| Steve Purcell           | [[https://github.com/purcell/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Syohei Yoshida          | [[https://github.com/syohex/dot_files/tree/master/emacs][emacs]]                |              |          |             |               |          |                                                     |
+| Taichi Kawabata         | [[https://github.com/kawabata/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Thierry Volpiatto       | [[https://github.com/thierryvolpiatto/emacs-tv-config][emacs-tv-config]]      |              |          |             |               |          |                                                     |
+| Tianxiang Xiong         | [[https://github.com/xiongtx/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Usami Kenta             | [[https://github.com/zonuexe/dotfiles/tree/master/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Vasilij Schneidermann   | [[https://github.com/wasamasa/dotemacs][dotemacs]]             |              |          |             |               |          |                                                     |
+| Wilfred Hughes          | [[https://github.com/Wilfred/.emacs.d][.emacs.d]]             |              |          |             |               |          |                                                     |
+| Xah Lee                 | [[https://github.com/xahlee/xah_emacs_init][xah_emacs_init]]       |              |          |             |               |          |                                                     |
+| Xyguo                   | [[https://github.com/xyguo/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+| Yuta Yamada             | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |              |          |             |               |          |                                                     |
+|-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-----------------------------------------------------|
 
 ** Contribute
    Feel free to open a pull request.
