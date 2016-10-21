@@ -1,6 +1,6 @@
 * A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
 
-| Name                    | config               | Keys         | Literate | Package     | Emacs version | Clonable | Highlights        |
+| Name                    | config               | Key Bindings | Literate | Package     | Emacs version | Clonable | Highlights        |
 |-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
 | Aaron Culich            | [[https://github.com/aculich/.emacs.d][.emacs.d]]             | classic      | ✔        | use-package |            25 | ✔        | OSX, Latex, Scala |
 |-------------------------+----------------------+--------------+----------+-------------+---------------+----------+-------------------|
