@@ -11,6 +11,7 @@
 | Bozhidar Batsov         | [[https://github.com/bbatsov/emacs.d][emacs.d]]              | classic       |          | use-package |               |          |                                                            |
 | Bradley Wright          | [[https://github.com/bradwright/emacs.d][emacs.d]]              |               |          |             |               |          |                                                            |
 | Chen Bin                | [[https://github.com/redguardtoo/emacs.d][emacs.d]]              |               |          |             |               |          |                                                            |
+| Chris Barrett           | [[https://github.com/chrisbarrett/.emacs.d][.emacs.d]]             | classic       |          | use-package |               | ✔        | git subtrees instead of Emacs package manager              |
 | Chris McCord            | [[https://github.com/chrismccord/dot_emacs][dot_emacs]]            |               |          |             |               |          |                                                            |
 | Chris Wanstrath         | [[https://github.com/defunkt/emacs][emacs]]                |               |          |             |               |          |                                                            |
 | Christian Johansen      | [[https://github.com/cjohansen/.emacs.d][.emacs.d]]             |               |          |             |               |          |                                                            |
