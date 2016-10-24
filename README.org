@@ -7,6 +7,7 @@
 | Alex Kost               | [[https://github.com/alezost/emacs-config][emacs-config]]         | non-standard  |          | quelpa      |               | ✔        | Multiple systems                                           |
 | Andrey Kotlarski        | [[https://github.com/m00natic/dot-emacs][dot-emacs]]            | classic       |          | package     |           23+ |          |                                                            |
 | Bailey Ling             | [[https://github.com/bling/dotemacs][dotemacs]]             | evil, classic |          | package     |               | ✔        | KISS                                                       |
+| Bob Mottram             | [[https://github.com/bashrc/emacs][.emacs.d]]             |               |          |             |           24+ | ✔        | GNU Social, rss reading, emms, magit, weather, Tor support |
 | Bodil Stokke            | [[https://github.com/bodil/ohai-emacs][ohai-emacs]]           | classic       |          | use-package |         24.4+ | ✔        | fashionable look, improved navigation, editing, code style |
 | Bozhidar Batsov         | [[https://github.com/bbatsov/emacs.d][emacs.d]]              | classic       |          | use-package |               |          |                                                            |
 | Bradley Wright          | [[https://github.com/bradwright/emacs.d][emacs.d]]              |               |          |             |               |          |                                                            |
