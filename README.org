@@ -68,11 +68,11 @@
 | Tianxiang Xiong       | [[https://github.com/xiongtx/.emacs.d][.emacs.d]]             |                       | ✔        |                      |               | ✔        |                                                             |
 | Usami Kenta           | [[https://github.com/zonuexe/dotfiles/tree/master/.emacs.d][.emacs.d]]             |                       |          |                      |               |          |                                                             |
 | Vasilij Schneidermann | [[https://github.com/wasamasa/dotemacs][dotemacs]]             |                       | ✔        |                      |               | ✔        |                                                             |
+| Vincent Zhang         | [[https://github.com/seagle0128/.emacs.d][Centaur Emacs]]        | classic               | ✔        | use-package          |         25+ | ✔        | GNU/Linux, macOS, Windows. Clean and Fast. Out of box.      |
 | Wilfred Hughes        | [[https://github.com/Wilfred/.emacs.d][.emacs.d]]             |                       | ✔        |                      |               | ✔        |                                                             |
 | Xah Lee               | [[https://github.com/xahlee/xah_emacs_init][xah_emacs_init]]       |                       |          |                      |               | ✔        |                                                             |
 | Xyguo                 | [[https://github.com/xyguo/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
 | Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
-| Vincent Zhang         | [[https://github.com/seagle0128/.emacs.d][Centaur Emacs]]        | classic               | ✔        | use-package          |         24.4+ | ✔        | GNU/Linux, macOS, Windows. Clean and Fast. Out of box.      |
 |-----------------------+----------------------+-----------------------+----------+----------------------+---------------+----------+-------------------------------------------------------------|
 
 ** Contribute
