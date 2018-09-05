@@ -77,6 +77,21 @@
 | Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
 |-----------------------+----------------------+-----------------------+----------+----------------------+---------------+----------+-------------------------------------------------------------|
 
-** Contribute
-   Feel free to open a pull request.
-   Please don't add your personal config file. I won't accept it unless it is vetted by other community members.
+** FAQ
+
+**** Who are these people?
+     Most of the people on this list are either heavy contributors to [[https://melpa.org/#/][MELPA]] or people who get involved in the community beyond having only an ~.emacs.d~ dir. If you spend time checking out MELPA packages, [[https://www.reddit.com/r/emacs/][/r/emacs]] or [[https://emacs.stackexchange.com/questions][Emacs StackExchage]] you would probably know most of them.
+
+**** How do you get yourself on this list?
+     First you should ask yourself why would you want to get on this list? ([[https://www.youtube.com/watch?v%3DPzRg--jhO8g][I'm kiddin'...]])
+     Most of the times a pull request would suffice. Keep in mind though that I won't accept self submission if the /config/ is not vetted by the other people or is not original enough.
+     One can also contribute by adding suggestions to [[https://github.com/caisah/emacs.dz/issues/34][this thread]].
+
+**** Can you ask your friend to list you?
+     Why not? Though if it's a real friend he would probably also state what makes your /config/ special. :wink:
+
+**** How did this list come about in the first place?
+     This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention.P
+
+
+
