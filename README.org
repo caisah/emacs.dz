@@ -91,7 +91,7 @@
      Why not? Though if it's a real friend he would probably also state what makes your /config/ special. :wink:
 
 **** How did this list come about in the first place?
-     This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention.P
+     This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention. :P
 
 
 
