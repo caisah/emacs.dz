@@ -74,7 +74,8 @@
 | Wilfred Hughes        | [[https://github.com/Wilfred/.emacs.d][.emacs.d]]             |                       | ✔        |                      |               | ✔        |                                                             |
 | Xah Lee               | [[https://github.com/xahlee/xah_emacs_init][xah_emacs_init]]       |                       |          |                      |               | ✔        |                                                             |
 | Xyguo                 | [[https://github.com/xyguo/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
-| Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |                       |          |                      |               | ✔        |                                                             |
+| Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              |                       |          |                      || ✔        |                                                             |
+|Yilkal Argaw |         [[https://github.com/yilkalargaw/yet-another-emacs][yet another emacs]]   |  classic with a hyper key |  |use-package      |    25+    |     ✔  | GNU/Linux |
 |-----------------------+----------------------+-----------------------+----------+----------------------+---------------+----------+-------------------------------------------------------------|
 
 ** FAQ
