@@ -45,6 +45,7 @@
 | Lars Andersen         | [[https://github.com/expez/.emacs.d][.emacs.d]]             |                          |          |                      |               | ✔        |                                                                         |
 | Lars Tveito           | [[https://github.com/larstvei/dot-emacs][dot-emacs]]            |                          | ✔        |                      |               | ✔        |                                                                         |
 | Magnar Sveen          | [[https://github.com/magnars/.emacs.d][.emacs.d]]             |                          | ✔        |                      |               | ✔        |                                                                         |
+| [[https://www.manuel-herrmann.de][Manuel Herrmann]]       | [[https://github.com/0x17de/emacs-config][emacs-config]]         | classic                  |          | use-package          |           24+ | ✔        | autocompletions for C++, python, golang, rust, LaTeX                    |
 | Mark Karpov           | [[https://github.com/mrkkrp/dot-emacs][dot-emacs]]            |                          |          |                      |           25+ | ✔        |                                                                         |
 | Name                  | config               | Key Bindings             | Literate | Package              | Emacs version | Clonable | Highlights                                                              |
 
