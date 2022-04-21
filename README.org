@@ -141,7 +141,7 @@
      Most of the people on this list are either heavy contributors to [[https://melpa.org/#/][MELPA]] or people who get involved in the community beyond having only an ~.emacs.d~ dir. If you spend time checking out MELPA packages, [[https://www.reddit.com/r/emacs/][/r/emacs]] or [[https://emacs.stackexchange.com/questions][Emacs StackExchage]] you would probably know most of them.
 
 **** How do you get yourself on this list?
-     First you should ask yourself why would you want to get on this list? ([[https://www.youtube.com/watch?v%3DPzRg--jhO8g][I'm kiddin'...]])
+     First you should ask yourself why would you want to get on this list? ([[https://www.youtube.com/watch?v=PzRg--jhO8g][I'm kiddin'...]])
      Most of the times a pull request would suffice. Keep in mind though that I won't accept self submission if the /config/ is not vetted by the other people or is not original enough.
      One can also contribute by adding suggestions to [[https://github.com/caisah/emacs.dz/issues/34][this thread]].
 
