@@ -6,7 +6,7 @@
    - [[https://github.com/overtone/emacs-live][Emacs Live]]
    - [[https://github.com/seagle0128/.emacs.d][Centaur Emacs]]
    - [[https://github.com/jkitchin/scimax][Scimax]]
-   - [[https://github.com/technomancy/better-defaults][Better Defaults]]
+   - [[https://git.sr.ht/~technomancy/better-defaults][Better Defaults]]
    - [[https://github.com/thefrontside/frontmacs][Frontmacs]]
    - [[https://github.com/rdallasgray/graphene][Graphene]]
    - [[https://github.com/bodil/ohai-emacs][Ohai Emacs]]
