@@ -3,6 +3,7 @@
    - [[https://github.com/syl20bnr/spacemacs][Spacemacs]]
    - [[https://github.com/hlissner/doom-emacs][Doom Emacs]]
    - [[https://github.com/bbatsov/prelude][Prelude]]
+   - [[https://github.com/SystemCrafters/crafted-emacs][Crafted Emacs]]
    - [[https://github.com/overtone/emacs-live][Emacs Live]]
    - [[https://github.com/seagle0128/.emacs.d][Centaur Emacs]]
    - [[https://github.com/jkitchin/scimax][Scimax]]
