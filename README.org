@@ -132,7 +132,8 @@
 |-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 | Yuta Yamada           | [[https://github.com/yuutayamada/emacs.d][emacs.d]]              | classic               |          | el-get                |           24+ |          |                                                             |
 |-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
-
+| Anoncheg1             | [[https://github.com/Anoncheg1/emacs-configs][emacs-config]]         | classic, non-standard |          | package               |           28+ |          | structured one-file config, notmuch, Python, agenda, fixes  |
+|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 
 
 ** FAQ
@@ -150,6 +151,3 @@
 
 **** How did this list come about in the first place?
      This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention. :P
-
-
-
