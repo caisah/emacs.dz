@@ -40,6 +40,8 @@
 |-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 | Dmytro Lispyvnyi      | [[https://github.com/a13/emacs.d][emacs.d]]              | classic               | ✔        | use-package           |         24.4+ | ✔        | Russian and Ukrainian localizations, web-browsing, mu4e     |
 |-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
+| enzu.ru               | [[https://github.com/enzuru/.emacs.d][.emacs.d]]             | meow, lispy           |          | straight use-package  |           29+ | ✔        | cutting edge, maximalist, lisp support, organized by folder |
+|-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 | Howard Abrams         | [[https://github.com/howardabrams/dot-files][dot-files]]            | classic               | ✔        | use-package           |               | ✔        | inspirational, programming languages, file management       |
 |-----------------------+----------------------+-----------------------+----------+-----------------------+---------------+----------+-------------------------------------------------------------|
 | Ista Zahn             | [[https://github.com/izahn/dotemacs][dotemacs]]             | classic, non-standard | ✔        | package               |            26 | ✔        | newbie friendly, ide like, for scientists                   |
@@ -150,6 +152,3 @@
 
 **** How did this list come about in the first place?
      This list was inspired by [[https://github.com/emacs-tw/awesome-emacs][awesome-emacs]] and started as a simple list of a few popular /configs/ but lately is getting a lot of attention. :P
-
-
-
