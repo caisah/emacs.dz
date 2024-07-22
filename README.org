@@ -10,6 +10,7 @@
    - [[https://git.sr.ht/~technomancy/better-defaults][Better Defaults]]
    - [[https://github.com/thefrontside/frontmacs][Frontmacs]]
    - [[https://github.com/rougier/nano-emacs][Nano Emacs]]
+   - [[https://github.com/abougouffa/minemacs][MinEmacs]]
 
 ** A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
 
