@@ -14,6 +14,7 @@
    - [[https://github.com/jcs-emacs/jcs-emacs][JCS-Emacs]]
    - [[https://github.com/jamescherti/minimal-emacs.d][minimal-emacs.d]]
    - [[https://github.com/LionyxML/emacs-kick][Emacs-Kick]]
+   - [[https://github.com/corgi-emacs/corgi][Corgi Emacs]]
 
 
 ** A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
