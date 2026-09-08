@@ -16,6 +16,7 @@
    - [[https://github.com/LionyxML/emacs-kick][Emacs-Kick]]
    - [[https://github.com/LionyxML/emacs-solo][Emacs Solo]]
    - [[https://github.com/corgi-emacs/corgi][Corgi Emacs]]
+   - [[https://codeberg.org/ashton314/emacs-bedrock/][Emacs Bedrock]]
 
 
 ** A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
