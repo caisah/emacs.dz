@@ -17,6 +17,7 @@
    - [[https://github.com/LionyxML/emacs-solo][Emacs Solo]]
    - [[https://github.com/corgi-emacs/corgi][Corgi Emacs]]
    - [[https://codeberg.org/ashton314/emacs-bedrock/][Emacs Bedrock]]
+   - [[https://radicle.network/nodes/oak.radicle.garden/rad%3AzecRiYjpjFnZWFhygfVM7shaCzJh][Backpack Emacs]]
 
 
 ** A list of people with nice [[https://www.gnu.org/software/emacs/][emacs]] config files
